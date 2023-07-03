@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <item
+      android:id="@+id/newMenu"
+      android:title="New"
+      android:icon="@mipmap/ic_launcher"/>
+    <item
+        android:id="@+id/saveMenu"
+        android:title="Save"
+        android:icon="@mipmap/ic_launcher">
+
+    </item>
+    <item
+        android:id="@+id/saveasMenu"
+        android:title="Save Us"/>
+    <item
+        android:id="@+id/editMenu"
+        android:title="Edit"/>
+    <item
+        android:id="@+id/exitMenu"
+        android:title="Exit"/>
+ </menu>
